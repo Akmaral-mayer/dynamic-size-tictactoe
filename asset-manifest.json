@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dynamic-size-tictactoe/static/css/main.f7358a91.chunk.css",
+    "main.js": "/dynamic-size-tictactoe/static/js/main.9d1f141b.chunk.js",
+    "main.js.map": "/dynamic-size-tictactoe/static/js/main.9d1f141b.chunk.js.map",
+    "runtime-main.js": "/dynamic-size-tictactoe/static/js/runtime-main.b0973165.js",
+    "runtime-main.js.map": "/dynamic-size-tictactoe/static/js/runtime-main.b0973165.js.map",
+    "static/js/2.c5a97fef.chunk.js": "/dynamic-size-tictactoe/static/js/2.c5a97fef.chunk.js",
+    "static/js/2.c5a97fef.chunk.js.map": "/dynamic-size-tictactoe/static/js/2.c5a97fef.chunk.js.map",
+    "index.html": "/dynamic-size-tictactoe/index.html",
+    "precache-manifest.1cab71c1736ed31ca3eb4cfd6c37f1ea.js": "/dynamic-size-tictactoe/precache-manifest.1cab71c1736ed31ca3eb4cfd6c37f1ea.js",
+    "service-worker.js": "/dynamic-size-tictactoe/service-worker.js",
+    "static/css/main.f7358a91.chunk.css.map": "/dynamic-size-tictactoe/static/css/main.f7358a91.chunk.css.map",
+    "static/js/2.c5a97fef.chunk.js.LICENSE.txt": "/dynamic-size-tictactoe/static/js/2.c5a97fef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0973165.js",
+    "static/js/2.c5a97fef.chunk.js",
+    "static/css/main.f7358a91.chunk.css",
+    "static/js/main.9d1f141b.chunk.js"
+  ]
+}
